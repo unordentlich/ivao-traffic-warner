@@ -120,6 +120,8 @@ Monitoring automatically ends after 2 hours of inactivity.
 
 Traffic data is pulled from the official IVAO network using the [Whazzup V2 API](https://wiki.ivao.aero/en/home/devops/api/whazuup/how-to-retrieve-v2). Due to regulations, the update interval is set to 20 seconds. You can change this by updating the `INTERVAL_TIME` const in the index.js file
 
+The `airports.json` data got fetched from the great project [openflights](https://github.com/jpatokal/openflights/blob/master/data/airports.dat) and converted programmatically into a JSON format.
+
 ---
 
 ## 🤝 Contributions
