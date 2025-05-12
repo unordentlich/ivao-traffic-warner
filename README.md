@@ -79,7 +79,7 @@ npm install
 
 ## 🧽 Usage
 
-1. Open the discord bot's chat via the `https://discordapp.com/users/@bots_client_id_goes_here` link
+1. Open the discord bot's chat via the `https://discordapp.com/users/bots_client_id_goes_here` link
 2. Send the command:
 
 ```bash
